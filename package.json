@@ -23,7 +23,7 @@
     "debug": "^0.8.0",
     "express": "3.4.8",
     "jpeg": "https://github.com/yztaoj/node-jpeg/archive/master.tar.gz",
-    "jquery": "2.1.0",
+    "jquery": "3.5.0",
     "mustache-express": "1.0.1",
     "queue3": "1.0.2",
     "redis": "0.10.1",
